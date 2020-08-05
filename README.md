@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/shinspiegel/shinspiegel/sideimage.png" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width="360px" />
+<img align="right" src="./sideimage.png" width="360px" />
 
 ### Hello there! I'm Jef! 👋
 

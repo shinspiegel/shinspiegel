@@ -1,4 +1,4 @@
-<img align="right" src="./sideimage.png" width="360px" />
+<img align="right" src="./sideimage.png" width="260px" />
 
 ### Hello there! I'm Jef! 👋
 

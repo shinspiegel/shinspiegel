@@ -7,7 +7,7 @@ I'm a frontend developer, I'm a self-taught, with a passion for web development.
 <p align="center">
 <a href= "https://www.linkedin.com/in/jeferson-leite-borges-9a4bb832/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://dev.to/shinspiegel"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "twitter.com/shinspiegel"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://twitter.com/shinspiegel"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 <a href= "mailto:shin.jef@gmail.com"><img src="https://img.icons8.com/ios-filled/28/gmail.png"/></a>
 </p>
 

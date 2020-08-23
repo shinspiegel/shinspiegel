@@ -16,7 +16,7 @@ I'm a frontend developer, I'm a self-taught, with a passion for web development.
 - 📱 I’m currently working on [Tentáculo.Digital](https://tentaculo.digital)
 - 🤓 I'm deeping my study on SQL and other ways to do frontend.
 - 💬 Ask me about frontend and React!.
-- 📫 How to reach me: shin.jef@gmail.com or Twitter [@shinspiegel](twitter.com/shinspiegel)
+- 📫 How to reach me: shin.jef@gmail.com or Twitter [@shinspiegel](https://twitter.com/shinspiegel)
 
 #### Some stats?
 

@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/shinspiegel/shinspiegel/master/sideimage.png" width="260px" />
 
-### Hello there! I'm Jef! 👋
+### Hello there! I'm Jef! <img src="https://github.com/AtosNeves/AtosNeves/blob/main/tenor.gif" />
 
 I'm a frontend developer, I'm a self-taught, with a passion for web development. I like to write a couple of things on my [Dev.to](https://dev.to/shinspiegel) page about development and this kind of stuff.
 

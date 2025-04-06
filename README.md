@@ -8,8 +8,6 @@ Let's connect and build something amazing together!
 
 <p align="center">
 <a href= "https://www.linkedin.com/in/jeferson-leite-borges-9a4bb832/"><img src="https://img.icons8.com/material-outlined/1x/ffffff/linkedin.png"/></a>
-<a href= "https://dev.to/shinspiegel"><img src="https://img.icons8.com/windows/1x/ffffff/dev.png"/></a>
-<a href= "https://twitter.com/shinspiegel"><img src="https://img.icons8.com/ios-glyphs/1x/ffffff/twitter.png"/></a>
 <a href= "mailto:shin.jef@gmail.com"><img src="https://img.icons8.com/material-outlined/1x/ffffff/new-post.png"/></a>
 </p>
 

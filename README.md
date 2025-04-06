@@ -16,7 +16,3 @@ I'm a frontend developer, I'm a self-taught, with a passion for web development,
 - 🎮 Did you say Godot?
 - 💬 Ask me about frontend and React! (or Svelte).
 - 📫 How to reach me: shin.jef@gmail.com or Twitter [@shinspiegel](https://twitter.com/shinspiegel)
-
-#### Some stats?
-
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=shinspiegel&show_icons=true&hide=[%22issues%22]&theme=dark)
